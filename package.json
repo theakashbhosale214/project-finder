@@ -7,7 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "aws-build": "ng build"
+    "aws-build": "ng build",
+    "pucchi": "dildo"
   },
   "private": true,
   "dependencies": {
